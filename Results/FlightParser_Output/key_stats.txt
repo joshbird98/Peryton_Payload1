@@ -1,0 +1,14 @@
+Key statistics for flight 5
+
+17 data entries, over 1.08 minutes
+
+Flight computer was programmed with...
+Sea level pressure = 1022.00 [hPa]
+Outside temperature = 1022.00 [C]
+Flight computer recorded an apogee of 976.69 [m] above sea level
+Flight computer recorded a height of 896.07 [m] above ground
+
+Manual sea level pressure = 1018.0 [hPa]
+Manual outside temperature = 15.0 [C]
+Manual pressure conversion gives an apogee of 940.60 [m] above sea level
+Manual pressure conversion gives a height of 894.89 [m] above ground
